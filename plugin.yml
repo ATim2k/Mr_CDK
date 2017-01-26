@@ -1,0 +1,12 @@
+name: Mr_CDK
+main: top.ascserver.mr_cdk.Mr_CDK
+version: "1.0.0"
+api: ["1.0.0"]
+load: POSTWORLD
+author: Mr_sky
+description: 兑换插件
+commands:
+  mrcdk:
+    description: Mr_MCDK的主命令
+#commands: []
+#permissions: []
